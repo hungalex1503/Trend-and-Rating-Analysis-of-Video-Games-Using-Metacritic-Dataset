@@ -1,0 +1,2 @@
+# Trend-and-Rating-Analysis-of-Video-Games-Using-Metacritic-Dataset
+Video games have become one of the most popular and competitive forms of digital entertainment. As the industry continues to grow, understanding what makes a game successful is an important research area for both developers and publishers. Predicting success earl before a game is released—can help companies reduce risk and improve design decisions.
